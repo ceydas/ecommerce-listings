@@ -1,5 +1,5 @@
 # Backend Case Study for an E-commerce Firm
-Containerized REST API for performing basic CRUD on listings. 
+Containerized REST API for performing basic CRUD on listings, with bad words filtering and logging. 
 
 ## Overview
 ✅ All CRUD operations
